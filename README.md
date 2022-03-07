@@ -25,3 +25,5 @@
 - Be curious about experiences and feelings.
 - "What is one thing you need from me to make your experience at work twice as good?"
 - Inclusion is for *everyone*.
+
+### Be obsessed with learning and development
